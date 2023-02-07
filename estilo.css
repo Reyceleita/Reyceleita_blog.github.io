@@ -1,0 +1,119 @@
+body {
+    margin: 0;
+    background-color: #efefef;
+}
+
+
+#tituloP {
+    color: #fff;
+    font-size: 3rem;
+    text-align: center;
+}
+
+.tituloA1 {
+    color: lime;
+    font-size: 25px;
+}
+
+.descripcion {
+    font-style: oblique;
+    font-size: 20px;
+}
+
+.inicio_link {
+    font: caption;
+}
+
+.textoEX {
+    color: brown;
+}
+
+
+.tituloPU {
+    font-size: 2rem;
+    font-family: cursive;
+    color: rgb(15, 15, 141);
+    text-align: center;
+}
+
+.subtituloPU {
+    font-family: Cambria;
+}
+
+.textoN {
+    font-size: 20px;
+    font-family: arial;
+}
+
+header {
+    background-color: firebrick;
+    color: white;
+    padding: 3rem 2rem;
+}
+
+.contenido {
+    width: 400px;
+    margin: 0 auto;
+    padding: 0px 0.5px;
+}
+
+section {
+    background-color: #fff;
+    margin: 1rem 0;
+    border-radius: 0.5rem;
+    padding: 0.35rem 0;
+    transition: all 0.3s ease;
+}
+
+.contenido:hover {
+    box-shadow: 0 0.1rem 0.4rem rgb(105, 105, 105);
+}
+
+section article h2, p {
+    margin: 1rem;
+}
+
+footer {
+    background-color: firebrick;
+    padding: 3rem;
+    color: rgb(0, 0, 0);
+}
+
+footer p {
+    margin: 0 ;
+}
+
+footer section {
+    float: right;
+    background: none;
+}
+
+footer a {
+    transition: color 0.3s ease;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: slateblue;
+}
+
+.inicio_link a {
+    color: rgb(46, 150, 255);
+    text-decoration: none;
+}
+
+.inicio_link a:hover {
+    color: red;
+}
+
+body h3, p {
+    width: 600px;
+    margin: 0 auto;
+    padding: 0px 0.5px;
+}
+
+.imagenPU {
+    align-items: center;
+    padding: 0px 400px;
+}
